@@ -1,0 +1,52 @@
+:root {
+
+  /* COLOR */
+
+  --color-primary: #ffe533;
+  --color-primary-dark: #f2d61e;
+  --color-blue: #5174B6;
+  --color-purple: #8D73C2;
+  --color-white: #fff;
+  --color-gray: #7C81AB;
+  --color-black: #121212;
+
+  /* SPACING */
+
+  --spc-1: 0.25rem;
+  --spc-2: 0.5rem;
+  --spc-3: 0.75rem;
+  --spc-4: 1rem;
+  --spc-5: 1.25rem;
+  --spc-6: 1.5rem;
+  --spc-7: 1.75rem;
+  --spc-8: 2rem;
+  --spc-9: 2.25rem;
+  --spc-10: 2.5rem;
+
+  --spc-md: 3rem;
+  --spc-lg: 3.5rem;
+
+  /* FONT-SIZE */
+
+  --h1: 3.815rem;
+  --h2: 3.052rem;
+  --h3: 2.441rem;
+  --h4: 1.953rem;
+  --h5: 1.563rem;
+  --h6: 1.25rem;
+  
+  --body: 1rem;
+  --body-sm: 0.8rem;
+
+/* LINE-HEIGHT */
+
+  --lh-h1: 4.2rem;
+  --lh-h2: 3.357rem;
+  --lh-h3: 2.929rem;
+  --lh-h4: 2.344rem;
+  --lh-h5: 2.032rem;
+  --lh-h6: 1.75rem;
+
+  --lh-body: 1.5rem;
+  --lh-body-sm: 1.2rem;
+}

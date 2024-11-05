@@ -1,0 +1,12 @@
+body {
+    height: 100%;
+}
+
+main {
+    padding: var(--spc-10);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(to right, var(--color-purple), var(--color-blue));
+}
