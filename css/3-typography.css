@@ -23,7 +23,7 @@ h5, h6 {
     line-height: var(--lh-h5);
 }
 
-p, li, a {
+p, li, a, button {
     font-family: "Raleway", serif;
     font-size: var(--body);
     line-height: var(--lh-body);
